@@ -68,7 +68,7 @@ I'm following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my l
 
 ```cpp
 // Learning by building, improving by practice
-class BassantFathy {
+class Youssef Mohammed {
 public:
     string university = "Port Said University";
     string currentFocus = "C++ & Object-Oriented Programming";
