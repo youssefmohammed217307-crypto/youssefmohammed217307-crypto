@@ -29,7 +29,7 @@ I'm following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my l
 ---
 
 ## 🏆 Achievements 
--Finished 9+ courses in Abu-Hadhoud Roadmap
+-Finished 5+ courses in Abu-Hadhoud Roadmap
 - Solved **hundreds of programming problems**
 - Built multiple C++ projects from scratch
 ---
